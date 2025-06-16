@@ -1,12 +1,11 @@
-
 {
   "site": {
-    "title": "Your Name",
+    "title": "Huaidong Jin",
     "tagline": "Web Developer & Designer",
     "description": "A minimalistic personal website showcasing my work and thoughts.",
-    "author": "Your Name",
+    "author": "Huaidong Jin",
     "email": "hello@yourname.com",
-    "url": "https://yourname.com"
+    "url": "https://huaidong-jin-blog.lovable.app"
   },
   "navigation": [
     { "label": "About", "href": "#about" },

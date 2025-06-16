@@ -1,4 +1,3 @@
-
 # Personal Website Template
 
 A beautiful, minimalistic, and content-first personal website template built with React, TypeScript, and Tailwind CSS.
@@ -61,10 +60,10 @@ Update your basic site information:
 ```json
 {
   "site": {
-    "title": "Your Name",
+    "title": "Huaidong Jin",
     "tagline": "Your Professional Title",
     "description": "Brief description of your site",
-    "author": "Your Name",
+    "author": "Huaidong Jin",
     "email": "your.email@example.com"
   },
   "hero": {
