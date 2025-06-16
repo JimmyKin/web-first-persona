@@ -1,0 +1,38 @@
+
+{
+  "site": {
+    "title": "Your Name",
+    "tagline": "Web Developer & Designer",
+    "description": "A minimalistic personal website showcasing my work and thoughts.",
+    "author": "Your Name",
+    "email": "hello@yourname.com",
+    "url": "https://yourname.com"
+  },
+  "navigation": [
+    { "label": "About", "href": "#about" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Blog", "href": "#blog" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+  "social": [
+    { "platform": "GitHub", "url": "https://github.com/yourusername", "icon": "github" },
+    { "platform": "LinkedIn", "url": "https://linkedin.com/in/yourusername", "icon": "linkedin" },
+    { "platform": "Twitter", "url": "https://twitter.com/yourusername", "icon": "twitter" }
+  ],
+  "hero": {
+    "headline": "Building digital experiences with purpose",
+    "subheadline": "I'm a passionate web developer focused on creating clean, functional, and user-centered digital solutions.",
+    "profileImage": "/media/profile.jpg",
+    "ctaText": "View My Work",
+    "ctaLink": "#projects"
+  },
+  "about": {
+    "title": "About Me",
+    "content": [
+      "I'm a web developer with over 5 years of experience creating digital solutions that matter. My passion lies in crafting clean, efficient code and intuitive user experiences.",
+      "When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or sharing knowledge through writing and speaking.",
+      "I believe in the power of simple, well-executed ideas and the importance of continuous learning in our ever-evolving field."
+    ],
+    "skills": ["JavaScript", "React", "Node.js", "TypeScript", "Python", "Design Systems"]
+  }
+}

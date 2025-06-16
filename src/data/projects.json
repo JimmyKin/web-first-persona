@@ -1,0 +1,41 @@
+
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "A modern, responsive e-commerce solution built with React and Node.js, featuring real-time inventory management and seamless payment integration.",
+    "image": "/media/project1-thumb.jpg",
+    "video": "/media/project1-demo.mp4",
+    "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+    "links": {
+      "demo": "https://demo.example.com",
+      "github": "https://github.com/yourusername/ecommerce-platform"
+    },
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Design System Library",
+    "description": "A comprehensive design system and component library that streamlines development across multiple projects.",
+    "image": "/media/project2-thumb.jpg",
+    "technologies": ["TypeScript", "Storybook", "CSS-in-JS", "Design Tokens"],
+    "links": {
+      "demo": "https://designsystem.example.com",
+      "github": "https://github.com/yourusername/design-system"
+    },
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Audio Visualization Tool",
+    "description": "An interactive web application that creates beautiful visualizations from audio files using Web Audio API.",
+    "image": "/media/project3-thumb.jpg",
+    "audio": "/media/project3-sample.mp3",
+    "technologies": ["Web Audio API", "Canvas", "WebGL", "JavaScript"],
+    "links": {
+      "demo": "https://audiovis.example.com",
+      "github": "https://github.com/yourusername/audio-visualizer"
+    },
+    "featured": false
+  }
+]

@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": 1,
+    "title": "The Art of Minimalist Web Design",
+    "excerpt": "Exploring how less can be more in modern web development, and why minimalism isn't just about aesthetics.",
+    "date": "2024-06-10",
+    "readTime": "5 min read",
+    "tags": ["Design", "UX", "Minimalism"],
+    "slug": "art-of-minimalist-web-design",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Building Accessible Components",
+    "excerpt": "A practical guide to creating web components that work for everyone, with real-world examples and testing strategies.",
+    "date": "2024-05-28",
+    "readTime": "8 min read",
+    "tags": ["Accessibility", "React", "Best Practices"],
+    "slug": "building-accessible-components",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Performance Optimization Techniques",
+    "excerpt": "Advanced techniques for optimizing web application performance, from code splitting to image optimization.",
+    "date": "2024-05-15",
+    "readTime": "12 min read",
+    "tags": ["Performance", "JavaScript", "Optimization"],
+    "slug": "performance-optimization-techniques",
+    "featured": false
+  }
+]
